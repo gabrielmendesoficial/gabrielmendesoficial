@@ -1,15 +1,4 @@
-# 👋 Olá! Eu sou Gabriel. =)
-
-💻 Desenvolvedor Full Stack e Analista de Dados
-
-🌆 Fundador da maior nação do mundo: @FTWNationalProductions
-
-😎 Analista de Dados na @stone-payments
-
-🚀 Apaixonado por tecnologia, programação e por resolver problemas com código  
-
-📫 E-mail para contato: contato.gabrielcirillo@gmail.com
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+my+name+is+Gabriel!++;I'm+a+Fullstack+Developer!++;I'm+22+years+old!;Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel!;Sou+um+Desenvolvedor+Fullstack!;Atualmente+tenho+22+anos+de+idade!)](https://git.io/typing-svg)
 ---
 
 ## 🖥️ Plataformas e Ferramentas 

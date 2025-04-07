@@ -30,8 +30,8 @@
 ---
 
 ## 🌱 Projetos em destaque
-- 🔧 [Nome do Projeto](link) - descrição curta.
-- 📦 [Outro Projeto](link) - outra descrição.
+- 🔧 [EcoScan](link) - IA identificadora de Lixo com interação em Mobile para usuarios reportarem o Lixo em sua região.
+- 📦 [DroneRescue](link) - IA identificadora de pessoas em Lama, utilizada em especial no resgate de pessoas em condições extremas.
 
 ---
 

@@ -15,7 +15,6 @@
 ## 📈 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmendesoficial&layout=compact&theme=transparent)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmendesoficial&show_icons=true&theme=transparent)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielmendesoficial&theme=transparent) 
 ---
 
 ## 🌱 Projetos em destaque

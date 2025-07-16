@@ -1,6 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+my+name+is+Gabriel!++;I'm+a+Fullstack+Developer!++;I'm+22+years+old!;Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel!;Sou+um+Desenvolvedor+Fullstack!;Atualmente+tenho+22+anos+de+idade!)](https://git.io/typing-svg)
 ---
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 🖥️ Plataformas e Ferramentas 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Oracle VM](https://img.shields.io/badge/Oracle_VM-F80000?style=flat&logo=oracle&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-B92828?style=flat&logo=node-red&logoColor=white) ![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat&logo=oracle&logoColor=white) ![Watson](https://img.shields.io/badge/IBM_Watson-052FAD?style=flat&logo=ibm&logoColor=white) ![Virtualização](https://img.shields.io/badge/Virtualiza%C3%A7%C3%A3o-0062CC?style=flat&logo=vmware&logoColor=white)
 
